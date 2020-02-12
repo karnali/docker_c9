@@ -5,7 +5,7 @@
 .DS_Store
 Dockerfile*
 Makefile
-push_dockerhub.sh
+build_tag_push_tohub.sh
 Changelog.md
 docker-compose*
 README.md
