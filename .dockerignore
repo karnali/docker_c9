@@ -2,7 +2,11 @@
 .gitignore
 .cache
 *.log
+.DS_Store
 Dockerfile*
+Makefile
+push_dockerhub.sh
+Changelog.md
 docker-compose*
 README.md
 LICENSE
