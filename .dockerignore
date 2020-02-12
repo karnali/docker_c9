@@ -1,0 +1,8 @@
+.git
+.gitignore
+.cache
+*.log
+Dockerfile*
+docker-compose*
+README.md
+LICENSE
