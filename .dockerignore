@@ -3,6 +3,7 @@
 .cache
 *.log
 .DS_Store
+.circleci
 Dockerfile*
 Makefile
 build_tag_push_tohub.sh
