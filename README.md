@@ -1,6 +1,4 @@
 [![CircleCI](https://circleci.com/gh/karnali/docker_c9.svg?style=svg)](https://circleci.com/gh/karnali/docker_c9)
-
-
 # docker_c9
 
 ```
