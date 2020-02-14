@@ -22,6 +22,11 @@ $ git init
 $ git remote add origin git@github.com:karnali/docker_c9.git
 $ git pull origin master
 ```
+# Pull changes from github.
+```
+$ git branch
+$ git pull origin master
+```
 # You should see your README file pulled from github.
 ```
 $ ls -l
