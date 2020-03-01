@@ -1,4 +1,8 @@
 [![CircleCI](https://circleci.com/gh/karnali/docker_c9.svg?style=svg)](https://circleci.com/gh/karnali/docker_c9)
+
+[![Alt text for your video](doc/screenshot_youtube.PNG)](https://www.youtube.com/watch?v=VIDEO-ID "Put hover text here!")
+
+
 # docker_c9
 
 ```
